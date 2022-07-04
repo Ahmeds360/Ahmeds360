@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on **A.I. Chat Bot**
 
-- 🤝 I’m looking for help with **Discord.py**
+- 🤝 I’m looking to help with **Discord.py**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Ahmeds360](https://github.com/Ahmeds360)
 
