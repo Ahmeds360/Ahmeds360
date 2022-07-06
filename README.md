@@ -1,4 +1,4 @@
-[![MasterHead](https://thumbs.dreamstime.com/b/horizontal-banner-hands-typing-laptop-keyboard-various-electronic-devices-symbols-programming-software-horizontal-125917922.jpg)](https://lestey.xyz)
+[![MasterHead](https://raw.githubusercontent.com/Ahmeds360/Ahmeds360/main/2022-07-04%2016.13.jpg)](https://lestey.xyz)
 <h1 align="center">Hi 👋, I'm Lestey</h1>
 <h3 align="center">The best developer there is.</h3>
 <img align="right" alt="Coding" width="400" src="https://i.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
