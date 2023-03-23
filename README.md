@@ -4,7 +4,7 @@
 <h3 align="center">The best developer there is.</h3>
 <img align="right" alt="Coding" width="400" src="https://i.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
-- 🔭 I’m currently working on [Abacus](https://abacus.lestey.xyz/)
+- 🔭 I’m currently working on [Abacus](https://abacus.lestey.org/)
 
 - 🌱 I’m currently learning **NextJS**
 
@@ -16,7 +16,7 @@
 
 - 💬 Ask me about **Python, Flask, AWS**
 
-- 📫 How to reach me **legend@lestey.xyz**
+- 📫 How to reach me **legend@lestey.org**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
