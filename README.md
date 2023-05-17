@@ -132,6 +132,9 @@
                     src="https://raw.githubusercontent.com/Ahmeds360/Ahmeds360/main/assets/stripe.png"
                     alt="Stripe" width="40" height="40" /> </a> </p>
 
+<h3 align="left">Support:</h3>
+<p><a href="https://www.buymeacoffee.com/lestey"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="lestey" /></a></p><br><br>
+
 <!-- Sample -->
 <!-- <a
                 href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img
