@@ -4,17 +4,17 @@
 <h3 align="center">The best developer there is.</h3>
 <img align="right" alt="Coding" width="400" src="https://i.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
-- 🔭 I’m currently working on [Abacus](https://abacus.lestey.org/)
+- 🔭 I’m currently working on [Ai Discord Avatar Generator](https://discordavatarsai.com/)
 
-- 🌱 I’m currently learning **NextJS**
+- 🌱 I’m currently learning **NextJS - T3 Stack**
 
-- 👯 I’m looking to collaborate on **A.I. Chat Bot**
+- 👯 I’m looking to collaborate on **Any Thing Cool**
 
 - 🤝 I’m looking to help with **Discord.py**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Ahmeds360](https://github.com/Ahmeds360)
 
-- 💬 Ask me about **Python, Flask, AWS**
+- 💬 Ask me about **Python, NextJS, AWS**
 
 - 📫 How to reach me **legend@lestey.org**
 
