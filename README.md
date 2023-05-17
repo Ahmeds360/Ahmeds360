@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **NextJS - T3 Stack**
 
-- 👯 I’m looking to collaborate on **Any Thing Cool**
+- 👯 I’m looking to collaborate on **Anything Cool 😎**
 
 - 🤝 I’m looking to help with **Discord.py**
 
