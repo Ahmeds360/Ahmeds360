@@ -16,7 +16,7 @@
 
 - 💬 Ask me about **Python, NextJS, AWS**
 
-- 📫 How to reach me **legend@lestey.org**
+- 📫 How to reach me **ceo@lestey.org**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
