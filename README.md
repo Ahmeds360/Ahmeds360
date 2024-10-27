@@ -4,7 +4,7 @@
 <h3 align="center">The best developer there is.</h3>
 <img align="right" alt="Coding" width="400" src="https://i.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
-- 🔭 I’m currently working on [Ai Discord Avatar Generator](https://discordavatarsai.com/)
+- 🔭 I’m currently working on [candybot.cc](https://candybot.cc/)
 
 - 🌱 I’m currently learning **NextJS - T3 Stack**
 
